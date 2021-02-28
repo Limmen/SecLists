@@ -15,3 +15,5 @@ ansible
 ec2-user
 vagrant
 azureuser
+alan
+donald
